@@ -68,7 +68,7 @@ streamlit run app.py
 ## Demo Video
 Watch the demo video to understand how AI Speech Translator works:
 
-📺 **[Demo Video](https://your-demo-video-link.com)**
+📺 **[Demo Video](bandicam 2025-02-09 23-23-03-479.mp4)**
 
 ## Deployment
 The application is deployed on Streamlit. You can access the live demo via the link below:
