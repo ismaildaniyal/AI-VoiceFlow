@@ -4,3 +4,4 @@ whisper
 requests
 gtts
 python-dotenv
+openai-whisper
