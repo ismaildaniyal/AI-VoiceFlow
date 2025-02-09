@@ -1,0 +1,6 @@
+streamlit
+torch
+whisper
+requests
+gtts
+python-dotenv
