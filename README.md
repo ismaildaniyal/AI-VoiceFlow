@@ -10,6 +10,16 @@ AI-VoiceFlow is an intelligent **speech-processing** application that enables **
 ✅ **Multi-Language Support**: English, French, Spanish, Hindi, Urdu, German, Chinese, and more!  
 ✅ **Streamlit UI**: Simple, responsive, and user-friendly.  
 
+
+## Technologies Used
+- **Python**
+- **Streamlit**
+- **Whisper AI** (Speech-to-Text)
+- **Google Gemini API** (Translation)
+- **gTTS** (Text-to-Speech)
+- **Dotenv** (Environment Variable Management)
+
+- 
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository  
@@ -50,10 +60,21 @@ streamlit run app.py
 
 ## 📷 Screenshots  
 🎤 **Upload Audio for Translation**  
-![Upload Screen](screenshots/upload.png)  
+![Audio](deepgram-asteria-1738782809878.mp3)  
 
 🔊 **Listen to Translated Speech**  
-![Translated Speech](screenshots/speech.png)  
+![Translated Speech](b9fcfaf0b0a48735488757a018fb2a56dc130fc43f64958bde129090)  
+
+## Demo Video
+Watch the demo video to understand how AI Speech Translator works:
+
+📺 **[Demo Video](https://your-demo-video-link.com)**
+
+## Deployment
+The application is deployed on Streamlit. You can access the live demo via the link below:
+
+🔗 **[Streamlit Deployment](https://your-streamlit-deployment-link.com)**
+
 
 ## 📜 License
 MIT License  
@@ -64,3 +85,7 @@ MIT License
 - Support **offline mode** for speech processing.  
 
 🚀 **Try it out and start translating speech instantly!**  
+
+## Author
+👨‍💻 **Developer:** M Ismail Daniyal
+
